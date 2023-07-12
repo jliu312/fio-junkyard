@@ -1,8 +1,9 @@
-# Forked for use on the Junkyard Computing Project
+Forked for use on the Junkyard Computing Project
+########
 
-```bash runFIO.sh``` to run random read, random write, sequential read, and sequential write benchmarks.
+``bash runFIO.sh`` to run random read, random write, sequential read, and sequential write benchmarks.
 
-`fio ./examples/xx.fio` to run other jobs (where xx is the jobfile)  
+``fio ./examples/xx.fio`` to run other jobs (where xx is the jobfile)  
 
 Overview and history
 --------------------
