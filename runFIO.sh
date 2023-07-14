@@ -1,5 +1,10 @@
 #! /bin/bash
 
+./configure
+make
+make install
+
+
 echo running random read
 fio fio-rand-read.fio>./out/randread.txt
 echo running random write
