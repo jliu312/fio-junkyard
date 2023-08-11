@@ -2,7 +2,7 @@
 
 ./configure
 make
-make install
+sudo make install
 
 
 echo running random read
